@@ -1,0 +1,252 @@
+MODULE,ITEM DESCRIPTION,MB COST (MYR),DAY,MAN,RATE,AB COST (MYR),STK COST (MYR),"ENG
+(MYR)",PACK (MYR),"TOTAL COST 
+(MYR)",EXCH,STK COST (USD),MU,LIST PRICE (USD),NOTES
+PWB2000V-S01,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S01
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- 1x Monitor for Strip Map Display.
+- 1x Monitor for Vision Display.
+- Windows 10 Pro Operating System
+PWB2000V 2D Vision System With VIS01 Configuration.
+- 8.9MP Area Scan Camera, Color with USB3.0 Interface.
+- Programmable Z-focusing.
+- QES Wire-Bond Vision Software.
+- Telecentric Lens 0.5x -1.3x 
+- Top Lighting - High Power Strobe Dome Light with Strobe Controller
+- Bottom Lighting - High Power Panel Light with Strobe Controller
+- Inspection Method - On-The-Fly Scanning
+- Standard Industrial Grade PC for Vision Processing with Windows 10 Pro Operating System",575000,40,2,440,35200,610200,18306,1500,630006,4,157501.5,0.398849237,262000,"Customer : ST Microelectronic, Bouskoura
+Application : PSSO
+Others : 8.9MP Camera, Dome Lighting, Exclude Center Rail."
+PWB2000V-S02,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S02
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Programmable Motorized Y & Z-axis Center Rail Support To Support The Bottom Of Loaded Lead Frame During Inspection (Applicable For Thin And High Warpage Lead Frame). 
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- 2x Monitors for Strip Map Display.
+- 2x Monitors for Vision Display. 
+- Windows 10 Pro Operating System
+- VISCO System Software & Hardware Integration.
+- SEMI-E84 Communication Protocol.",480000,30,2,440,26400,506400,15192,1500,523092,4,130773,0.397359447,217000,"Customer : ST Microelectronic, Malta
+Application : SSHD
+Others : VISCO Vision, AGV Integration"
+PWB2000V-S03,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S03
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Programmable Motorized Y & Z-axis Center Rail Support To Support The Bottom Of Loaded Lead Frame During Inspection (Applicable For Thin And High Warpage Lead Frame). 
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- Dual Screen Monitors
+- Windows 10 Pro Operating System
+PWB2000V 2D Vision System With VIS02 Configuration.
+- High Resolution Line Scan Camera.
+- Programmable Z-focusing.
+- QES Wire-Bond Vision Software.
+- Top Lighting - High Power Coaxial Light And Tube Light with Controller
+- Inspection Method - Line scanning
+- Standard Industrial Grade PC for Vision Processing with Windows 10 Pro Operating System
+- SEMI-E84 Communication Protocol",725000,40,2,440,35200,760200,22806,1500,784506,4,196126.5,0.449082865,356000,"Customer : SANDISK, Penang
+Application : MEMS
+Others : Line Scan, AGV Integration"
+PWB2000V-S04,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S04
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Output Reject Bin.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- 1x Monitor for Strip Map Display.
+- 1x Monitor for Vision Display.
+- Windows 10 Pro Operating System
+PWB2000V 2D Vision System With VIS03 Configuration.
+- 44.7MP Area Scan Camera, Color with CoaxPress Interface.
+- Programmable Z-focusing.
+- QES Wire-Bond Vision Software.
+- Endocentric Macro Lens.
+- Top Lighting - High Power Strobe Coaxial Light and Low Angle Light with Strobe Controller
+- Bottom Lighting - High Power Panel Light with Strobe Controller
+- Inspection Method - On-The-Fly Scanning
+- Standard Industrial Grade PC for Vision Processing with Windows 10 Pro Operating System
+- Extra 6TB storage",680000,40,2,440,35200,715200,21456,1500,738156,4,184539,0.404712903,310000,"Customer : ST Microelectronic, Bouskoura
+Application : TPAK
+Others : 44.7MP Camera, Dual Output Magazine Gripper."
+PWB2000V-S05,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S05
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Programmable Motorized Y & Z-axis Center Rail Support To Support The Bottom Of Loaded Lead Frame During Inspection (Applicable For Thin And High Warpage Lead Frame). 
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- Dual Screen Monitors
+- Windows 10 Pro Operating System
+PWB2000V 2D Vision System With VIS04 Configuration.
+- 8.9MP Area Scan Camera, Color with USB3.0 Interface.
+- Camera Motorized Z-Axis Module
+- QES Wire-Bond Vision Software.
+- Telecentric Lens 0.5x -1.3x 
+- Top Lighting - High Power Strobe Coaxial Light with Strobe Controller
+- Bottom Lighting - High Power Panel Light with Strobe Controller
+- Inspection Method - On-The-Fly Scanning
+- Standard Industrial Grade PC for Vision Processing with Windows 10 Pro Operating System",578000,40,2,440,35200,613200,18396,1500,633096,4,158274,0.395900763,262000,"Customer : ST Microelectronic, Bouskoura
+Application : SMBF
+Others : 8.9MP Camera & Coaxial Lighting."
+PWB2000V-S06,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S06
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- Dual Screen Monitors
+- Windows 10 Pro Operating System
+PWB2000V 2D Vision System With VIS05 Configuration.
+- 12MP Area Scan Camera, Color with USB3.0 Interface.
+- Camera Motorized Z-Axis Module
+- QES Wire-Bond Vision Software.
+- Telecentric Lens 0.5x -1.3x 
+- Top Lighting - High Power Strobe Coaxial Light with Strobe Controller
+- Bottom Lighting - High Power Panel Light with Strobe Controller
+- Inspection Method - On-The-Fly Scanning
+- Standard Industrial Grade PC for Vision Processing with Windows 10 Pro Operating System",578000,40,2,440,35200,613200,18396,1500,633096,4,158274,0.395900763,262000,"Customer : ST Microelectronic, Bouskoura
+Application : T2PAK
+Others : 12MP Camera, Coaxial Lighting."
+PWB2000V-S07,"PWB2000V - Post Wire Bond Inspection System with Configuration of PWB20-S07
+- Automatic Loading and Unloading for Input Magazine.
+- Automatic Loading and Unloading for Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module 
+- Standard Industrial Grade PC for Handler with Windows 10 Pro Operating System
+- Dual Screen Monitors
+- Windows 10 Pro Operating System
+PWB2000V 2D Vision System With VIS06 Configuration
+- 26.2MP Area Scan Camera, Color with USB3.0 Interface
+- Camera Motorized Z-Axis Module
+- QES Wire-Bond Vision Software
+- Telecentric Lens 0.7x -1.4x 
+- Top Lighting - High Power Strobe Coaxial Light with Strobe Controller
+- Inspection Method - On-The-Fly Scanning
+- Standard Industrial Grade PC for Vision Processing with Windows 10 Pro Operating System",650000,40,2,440,35200,685200,20556,1500,707256,4,176814,0.400630508,295000,"Customer : Nanjing Ree-Chip Top Electrical Co., Ltd. 
+Application : Device on Metal Frame"
+PWB2000V-S08,"PWB2000V - Post Wire Bond Inspection System With Configuration Of PWB20-S08
+- Automatic Loading And Unloading For Input Magazine.
+- Automatic Loading And Unloading For Output Magazine.
+- Programmable XY Axis Of Dual Stage
+- Programmable Pneumatic Pair Clampers
+- Programmable Motorized Loader Module (Assembly Finger)
+- Programmable Motorized Soft-Pusher Module
+- Standard Industrial Grade PC For Handler With Windows 10 Pro Operating System
+- 1x Monitor For Strip Map Display.
+- 1x Monitor For Vision Display.
+- Windows 10 Pro Operating System
+
+PWB2000V 2D Vision System With VIS03 Configuration.
+- 44.7MP Area Scan Camera, Color With Coaxpress Interface.
+- Programmable Z-Focusing.
+- QES Wire-Bond Vision Software.
+- Endocentric Macro Lens.
+- Top Lighting - High Power Strobe Coaxial Light and Low Angle Light With Strobe Controller
+- Bottom Lighting - High Power Panel Light With Strobe Controller
+- Inspection Method - On-The-Fly Scanning
+- Standard Industrial Grade PC For Vision Processing With Windows 10 Pro Operating System
+- Extra 6TB Storage",640000,40,2,440,35200,675200,20256,1500,696956,4,174239,0.395003472,288000,"Customer : ST Microelectronic, Bouskoura
+Application : TPAK
+Others : 44.7MP Camera, Dual Output Magazine Gripper.
+***EXCLUDE: Output Reject Bin***
+"
+PWB2000V-S09,"PWB2000V-S09 - POST WIRE BOND INSPECTION SYSTEM WITH CONFIGURATION OF PWB20-S09
+- AUTOMATIC LOADING AND UNLOADING FOR INPUT MAGAZINE
+- AUTOMATIC LOADING AND UNLOADING FOR OUTPUT MAGAZINE
+- PROGRAMMABLE XY AXIS OF DUAL STAGE
+- PROGRAMMABLE PNEUMATIC PAIR CLAMPERS
+- PROGRAMMABLE MOTORIZED LOADER MODULE (ASSEMBLY FINGER)
+- PROGRAMMABLE MOTORIZED SOFT-PUSHER MODULE
+- PROGRAMMABLE MOTORIZED Y & Z-AXIS CENTER RAIL SUPPORT TO SUPPORT THE BOTTOM OF LOADED LEAD FRAME DURING INSPECTION (APPLICABLE FOR THIN AND HIGH WARPAGE LEAD FRAME). 
+- STANDARD INDUSTRIAL GRADE PC FOR HANDLER WITH WINDOWS 10 PRO OPERATING SYSTEM
+- DUAL SCREEN MONITORS
+- CAMERA MOTORIZED Z-AXIS MODULE
+- WINDOWS 10 PRO OPERATING SYSTEM
+- WELDING STRUCTURE FOR STAGE BASE, REJECT MODULE BASE AND CAMERA.",446780,28,2,440,24640,471420,14142.6,1000,486562.6,4,121640.65,0.39179675,200000,"Customer : ST Microelectronic, Bouskoura
+Application : T2PAK
+Others : 12MP Camera, Welding Structure, Vertical Punch
+"
+PWB2000V-S10,"PWB2000V-S10 - POST WIRE BOND INSPECTION SYSTEM WITH CONFIGURATION OF PWB20-S10
+- AUTOMATIC LOADING AND UNLOADING FOR INPUT MAGAZINE.
+- AUTOMATIC LOADING AND UNLOADING FOR OUTPUT MAGAZINE.
+- PROGRAMMABLE XY AXIS OF DUAL STAGE
+- PROGRAMMABLE PNEUMATIC PAIR CLAMPERS
+- PROGRAMMABLE MOTORIZED LOADER MODULE (ASSEMBLY FINGER)
+- PROGRAMMABLE MOTORIZED SOFT-PUSHER MODULE
+- PROGRAMMABLE MOTORIZED Y & Z-AXIS CENTER RAIL SUPPORT TO SUPPORT THE BOTTOM OF LOADED LEAD FRAME DURING INSPECTION (APPLICABLE FOR THIN AND HIGH WARPAGE LEAD FRAME). 
+- STANDARD INDUSTRIAL GRADE PC FOR HANDLER WITH WINDOWS 10 PRO OPERATING SYSTEM
+- 2X MONITORS FOR STRIP MAP DISPLAY.
+- 2X MONITORS FOR VISION DISPLAY. 
+- WINDOWS 10 PRO OPERATING SYSTEM
+- VISCO SYSTEM SOFTWARE & HARDWARE INTEGRATION.
+- SEMI-E84 COMMUNICATION PROTOCOL.
+- CENTRAL RAIL SUPPORT WITH ALUMINUM, MATTE BLACK & TEFLON COATED.",480700,30,2,440,26400,507100,15213,1500,523813,4,130953.25,0.397694554,217420,"Customer : ST Microelectronic, Malta
+Application : SSHD
+Others : VISCO Vision, AGV Integration, Aluminium center rail with telfon coating."
+PWB20-VIS05,"PWB2000V 2D VISION SYSTEM WITH VIS05 CONFIGURATION.
+- 12MP AREA SCAN CAMERA, COLOR WITH USB3.0 INTERFACE
+- QES WIRE-BOND VISION SOFTWARE
+- TELECENTRIC LENS 0.5X -1.3X
+- TOP LIGHTING - HIGH POWER STROBE COAXIAL LIGHT WITH STROBE CONTROLLER
+- BOTTOM LIGHTING - HIGH POWER PANEL LIGHT WITH STROBE CONTROLLER
+- INSPECTION METHOD - ON-THE-FLY SCANNING
+- STANDARD INDUSTRIAL GRADE PC FOR VISION PROCESSING WITH WINDOWS 10 PRO OPERATING SYSTEM",131220,12,2,440,10560,141780,4253.4,500,146533.4,4,36633.35,0.409139516,62000,
+PWB20-MCRSET,"2D Matrix Code Reader  
+- Integrated LED lighting.
+- 1/3-inch CCD camera.
+- Software commands via Ethernet and RS232; TCP/IP protocol
+- Software integration for data matrix after acquires the matrix codes for data registration and upload to the host computer.
+- Included mounting, frame and panel for 2D matrix code reader.",9000,8,1,440,3520,12520,375.6,304,13199.6,4,3299.9,0.500015152,6600,
+PWB20-PUNCHVA,"Puncher Reject Identification Module 
+- Programmable automatic reject identification consisting of physical marking on the lead frame or substrate a confirmed rejected units via inspection.
+- Accuracy: +/- 25 micron.
+- Vacuum suction with container debris for punched lead.",26000,5,1,440,2200,28200,846,250,29296,4,7324,0.389666667,12000,
+PWB20-VEPUNCHV01,VERTICAL PUNCHER REJECT IDENTIFICATION MODULE V01,20000,5,1,440,2200,22200,666,250,23116,4,5779,0.614733333,15000,
+PWB20-STBPHV1,"Puncher Top,  Bottom Holder, Puncher Die-set  for One Type of Device",10000,3,1,440,1320,11320,339.6,100,11759.6,4,2939.9,0.331840909,4400,
+PWB20-STBPHV2,"Puncher Top,  Bottom Holder, Puncher Die-set  for TPAK",10000,3,1,440,1320,11320,339.6,100,11759.6,4,2939.9,0.331840909,4400,
+PWB20-STBPHV3,"Puncher Top,  Bottom Holder, Puncher Die-set  for T2PAK",10000,3,1,440,1320,11320,339.6,100,11759.6,4,2939.9,0.331840909,4400,
+PWB20-STBDSV1,Puncher Die Set ,2500,1,1,440,440,2940,88.2,100,3128.2,4,782.05,0.37436,1250,
+PWB20-FBLSCUT,"Fiber Laser Reject Identification Module.
+- Programmable automatic reject identification consisting of wire cut on the lead frame unit or substrate unit after confirmed rejected units via inspection.",52000,1,1,440,440,52440,1573.2,250,54263.2,4,13565.8,0.434758333,24000,
+PWB20-BCRSET,"Handheld Barcode Scanner  
+- 1x handheld barcode scanner to scan the production lot barcode manually by operator, inclusive of software integration. ",600,1,1,440,440,1040,31.2,250,1321.2,4,330.3,0.399454545,550,
+PWB20-FMKITS,"Foreign Material Removal Kits
+- Ionizer blower.
+- Vacuum ejector.
+- Z-axis.
+- Softawre integration for FM on/off and FM Ionizer alarm.",13000,1,1,440,440,13440,403.2,250,14093.2,4,3523.3,0.3594,5500,
+PWB20-MGID,"Input Magazine ID Integration.
+- 1D Barcode Scanner in Input Magazine Loading Port.
+- Customized software UI for Input Magazine ID saving upon 1D Barcode reading.
+- Integration of inspected strip results with scanned magazine ID and further upload to host server.
+- Improvised database to include Input Magazine ID Saving.",6500,1,1,440,440,6940,208.2,250,7398.2,4,1849.55,0.383483333,3000,
+PWB20-HDD,Backup 1TB HDD for Machine PC.,3200,1,1,440,440,3640,109.2,100,3849.2,4,962.3,0.358466667,1500,
+PWB20-HDD2,Additional 500GB HDD for Handle PC,3200,1,1,440,440,3640,109.2,100,3849.2,4,962.3,0.358466667,1500,
+PWB20-BSECSGEM,Implementation of High-Speed Messaging Protocol (Basic SECSGEM),4000,30,1,440,13200,17200,516,100,17816,4,4454,0.5546,10000,
+PWB20-ASECSGEM,Implementation of High-Speed Messaging Protocol (Advance SECSGEM),4000,40,1,440,17600,21600,648,100,22348,4,5587,0.627533333,15000,
+PWB20-HPC,PWB2000V Industrial Grade PC for Handler ,4500,1,1,440,440,4940,148.2,100,5188.2,4,1297.05,0.48118,2500,
+PWB20-WIN10,Microsoft Windows 10 PRO License,650,1,1,440,440,1090,32.7,100,1222.7,4,305.675,0.38865,500,
+PWB20-VPC,PWB2000V Industrial Grade PC for Vision Processing,11000,1,1,440,440,11440,343.2,100,11883.2,4,2970.8,0.40584,5000,
+PWB20-MPLATE,"Lead Frame with Metal Plate Handling Upgrade, Inclusive of Hardware & Software Modification",15000,5,1,440,2200,17200,516,100,17816,4,4454,0.44325,8000,
